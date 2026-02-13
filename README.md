@@ -5,8 +5,6 @@ Logged-in users can add, view, and delete their own bookmarks — with instant s
 
 **Live demo** (if deployed): https://smart-bookmark-app.vercel.app (replace with your actual Vercel URL after deployment)
 
-Made by **Yash** • Nashik, Maharashtra, India • February 2026
-
 ## Features
 
 - Google OAuth login only (via Supabase Auth)
